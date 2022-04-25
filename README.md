@@ -6,4 +6,4 @@ Nodejs 가 다운로드된상태에서, Terminal/Command Prompt로 다운받은 
 
 현재는 4개밖에없어서 4강까지밖에 하지못하지만, 이미지를 충분히 가져오신후, src/Game/Game.js에 있는 item 의 목록을 8개나 16개 또는 32개로 만드시면 8강 16강 32강으로 만드실수가 있습니다.
 
-감사합니다.
+https://github.com/DannyTWLC/favoriate-worldcup 
